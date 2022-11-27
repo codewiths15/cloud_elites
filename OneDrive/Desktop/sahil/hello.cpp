@@ -17,7 +17,7 @@ cout<<"Bus Number: \t"<<"123"
   <<"\t\tArrival Time: \t"<<"11.44"
   <<"\tDeparture Time:"<<"12.45"
   <<"\nFrom: \t\t"<<"xyz"
-  <<"\t\tTo: \t\t"<<"pqr"<<"\n";
+  <<"\t\tTo: \t\t"<<"pqr"<<"\n"<<"\n";
 bus_line('*');
 
 
